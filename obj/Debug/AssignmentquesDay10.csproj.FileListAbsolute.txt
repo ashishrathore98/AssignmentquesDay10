@@ -1,0 +1,8 @@
+E:\Simplilearn course\Day10\AssignmentquesDay10\AssignmentquesDay10\bin\Debug\AssignmentquesDay10.exe.config
+E:\Simplilearn course\Day10\AssignmentquesDay10\AssignmentquesDay10\bin\Debug\AssignmentquesDay10.exe
+E:\Simplilearn course\Day10\AssignmentquesDay10\AssignmentquesDay10\bin\Debug\AssignmentquesDay10.pdb
+E:\Simplilearn course\Day10\AssignmentquesDay10\AssignmentquesDay10\obj\Debug\AssignmentquesDay10.csproj.AssemblyReference.cache
+E:\Simplilearn course\Day10\AssignmentquesDay10\AssignmentquesDay10\obj\Debug\AssignmentquesDay10.csproj.SuggestedBindingRedirects.cache
+E:\Simplilearn course\Day10\AssignmentquesDay10\AssignmentquesDay10\obj\Debug\AssignmentquesDay10.csproj.CoreCompileInputs.cache
+E:\Simplilearn course\Day10\AssignmentquesDay10\AssignmentquesDay10\obj\Debug\AssignmentquesDay10.exe
+E:\Simplilearn course\Day10\AssignmentquesDay10\AssignmentquesDay10\obj\Debug\AssignmentquesDay10.pdb
